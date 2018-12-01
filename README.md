@@ -1,4 +1,4 @@
-# API Aggregator External Adaptor ![Travis-CI](https://travis-ci.org/linkpoolio/api-aggregator-cl-ea.svg?branch=master) [![codecov](https://codecov.io/gh/linkpoolio/asset-price-cl-ea/branch/master/graph/badge.svg)](https://codecov.io/gh/linkpoolio/api-aggregator-cl-ea)
+# API Aggregator External Adaptor ![Travis-CI](https://travis-ci.org/linkpoolio/api-aggregator-cl-ea.svg?branch=master) [![codecov](https://codecov.io/gh/linkpoolio/api-aggregator-cl-ea/branch/master/graph/badge.svg)](https://codecov.io/gh/linkpoolio/api-aggregator-cl-ea)
 External adaptor that can generically aggregate numerical values for any given amount of APIs.
 
 **Supported Aggregation Methods:**
