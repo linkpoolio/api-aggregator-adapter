@@ -29,7 +29,7 @@ Then run the bridge:
 #### Docker
 To run the container:
 ```
-docker run -it -p 8080:8080 linkpool/apiaggregator-bridge:latest
+docker run -it -p 8080:8080 linkpool/api-aggregator-adapter:latest
 ```
 
 #### AWS Lambda
